@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=320&color=E3AFE1&text=JO%20SOYEON%20&reversal=false&textBg=false&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=320&color=E3AFE1&text=JO%20SOYEON%20JO&reversal=false&textBg=false&fontColor=ffffff)
 
 <div align=center>
 # 안녕하세요. 👋 <br />
