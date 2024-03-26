@@ -36,9 +36,11 @@
 <br />
 <br />
 
-<div align=center>
+<div align=center> 
+  
 ![Soyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=josoyean&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josoyean&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 
