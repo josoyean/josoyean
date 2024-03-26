@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=320&color=E3AFE1&text=JO%20SOYEON%20&reversal=false&textBg=false&fontColor=ffffff)
 
 <div align=center>
-# 안녕하세요. 👋<br />
+# 안녕하세요. 👋 <br />
 1년 6개월차 주니어 웹 프론트엔드 개발자입니다.<br />
 저는 항상 새로운 기술에 대한 호기심과 열정을 가지고 학습하며, <br />
 최신 트랜드에 민감하게 반응하여 기술적으로 능숙한 개발자로 성장하고자 합니다.<br />
@@ -11,7 +11,7 @@
 
 <div align=center>
   
-# Skills 🚀
+# 🚀 Skills 🚀
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
@@ -23,13 +23,16 @@
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 </div>
 <div align=center>
-  
-# Tools 
+  <br />
+  <br />
+# 🔨 Tools 🔨
+
 <a href="https://saltsoyeon.tistory.com/" target="_blank">
 <img src="https://img.shields.io/badge/Tistory-3776AB?style=flat&logo=Tistory&logoColor=white"/>
 </div>
 </a>
-
+<br />
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josoyean&layout=compact)](https://github.com/josoyean/github-readme-stats)
 ![Soyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=josoyean&show_icons=true&theme=radical)
 
