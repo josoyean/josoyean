@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=320&color=E3AFE1&text=%20SOYEON%20JO&reversal=false&textBg=false&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=E3AFE1&text=%20SOYEON%20JO&reversal=false&textBg=false&fontColor=ffffff)
 
 <div align=center>
 # 안녕하세요. 👋 <br />
@@ -24,9 +24,6 @@
 </div>
 
 <div align=center width=50%>
-  <br />
-  <br />
-
   
 # 🔨 Tools 🔨
 
@@ -46,5 +43,3 @@
 [![soyean's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=josoyean&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
-
-![footer](https://capsule-render.vercel.app/api?type=waving&height=220&color=E3AFE1&reversal=false&textBg=false&fontColor=ffffff&section=footer)
