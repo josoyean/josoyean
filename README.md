@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HELLO!%20&reversal=true&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=320&color=E3AFE1&text=JO%20SOYEON%20&reversal=false&textBg=false&fontColor=ffffff)
+
 <div align=center>
 # 안녕하세요. 👋
 1년 6개월차 주니어 웹 프론트엔드 개발자입니다.
@@ -15,6 +16,7 @@
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+<br />
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
 <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" />
@@ -24,10 +26,10 @@
   
 # Tools 
 <a href="https://saltsoyeon.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Tistory-3776AB?style=flat&logo=Tistory&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Tistory-3776AB?style=flat&logo=Tistory&logoColor=white"/>
 </div>
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josoyean&layout=compact)](https://github.com/josoyean/github-readme-stats)
-
+![Soyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=220&color=E3AFE1&reversal=false&textBg=false&fontColor=ffffff&section=footer)
