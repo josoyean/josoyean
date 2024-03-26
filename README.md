@@ -31,13 +31,9 @@
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josoyean&layout=compact)](https://github.com/josoyean/github-readme-stats)
-![Soyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-// ===== 많이 사용한 언어 확인하기 =====
-// 제일 기본적인 style
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username='josoyean')](https://github.com/anuraghazra/github-readme-stats)
-// 간단한 표시 style
-// 이를 사용할 경우에는 layout과 custom_title을 모두 사용해준다.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username='josoyean'&layout=compact&custom_title=My&nbsp;Language&nbsp;)](https://github.com/anuraghazra/github-readme-stats)
+![Soyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=josoyean&show_icons=true&theme=radical)
+![Soyeon's github stats](https://github-readme-stats.vercel.app/api?username=josoyean&show_icons=true&theme=tokyonight)
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=220&color=E3AFE1&reversal=false&textBg=false&fontColor=ffffff&section=footer)
