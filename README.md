@@ -9,7 +9,7 @@
 그 과정으로 팀원들과 협력하고 배워 나가고 있습니다.<br />
 </div>
 <div>
-<div align=center width='50%'>
+<div align=center style=" width:50%">
   
 # 🚀 Skills 🚀
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
