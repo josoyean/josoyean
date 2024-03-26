@@ -23,7 +23,9 @@
 <div align=center>
   
 # Tools 
-<a href="https://saltsoyeon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=ffffff"/>
+<a href="https://saltsoyeon.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Tistory-3776AB?style=flat&logo=Tistory&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=ffffff"/>
 </div>
 </a>
 
