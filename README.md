@@ -23,7 +23,7 @@
 <div align=center>
   
 # Tools 
-<a href="https://saltsoyeon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/#000?style=flat-square&logo=tistory&logoColor=#fff"/>
+<a href="https://saltsoyeon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/000?style=flat-square&logo=tistory&logoColor=fff"/>
 </div>
 </a>
 
