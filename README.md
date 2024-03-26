@@ -9,7 +9,8 @@
 </div>
 
 <div align=center>
-# 🚀 Skills
+  
+# Skills 🚀
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" />
@@ -19,10 +20,11 @@
 <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" />
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 </div>
-
+<div align=center>
+  
 # Tools 
 <a href="https://saltsoyeon.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/#000?style=flat-square&logo=tistory&logoColor=#fff"/>
-
+</div>
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josoyean&layout=compact)](https://github.com/josoyean/github-readme-stats)
