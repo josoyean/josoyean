@@ -35,7 +35,9 @@
 </a>
 <br />
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josoyean&layout=compact)](https://github.com/josoyean/github-readme-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josoyean&layout=compact)](https://github.com/josoyean/github-readme-stats)
 ![Soyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=josoyean&show_icons=true&theme=radical)
 
 
