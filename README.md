@@ -23,19 +23,6 @@
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-<div align=center width=50%>
-  
-# 🔨 Tools 🔨
-
-<a href="https://saltsoyeon.tistory.com/" target="_blank">
-<img src="https://img.shields.io/badge/Tistory-3776AB?style=flat&logo=Tistory&logoColor=white"/>
-</div>
-</a>
-<br />
-<br />
-
-</div>
-
 <div align=center height=200px> 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josoyean&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
