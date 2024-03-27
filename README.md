@@ -31,10 +31,10 @@
 
 
 
-  <a href="s">
+  <a href="s" hight=500px>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josoyean&layout=compact&theme=radical" width=34% hight=500px />
 </a>
-<a href="s">
+<a href="s" hight=500px>
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josoyean&theme=react-dark&bg_color=000000&hide_border=true&line=ffffff&color=ffffff" width=64% hight=500px />
 </a>
 
