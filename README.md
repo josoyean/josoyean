@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=E3AFE1&text=%20SOYEON%20JO&reversal=false&textBg=false&fontColor=ffffff)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7C2D4&random=false&width=435&lines=+welcome+to+soyeon+github+%3A))](https://git.io/typing-svg)
 
 <div align=center>
   
