@@ -37,5 +37,9 @@
 
 [![soyean's github activity graph]()](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img scr='https://github-readme-activity-graph.vercel.app/graph?username=josoyean&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true' width=55% />
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=josoyean&theme=react-dark&bg_color=000000&hide_border=true&line=ffffff&color=ffffff" width=94%/>
+</a>
 </div>
 
