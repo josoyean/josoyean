@@ -8,7 +8,7 @@
 최신 트랜드에 민감하게 반응하여 기술적으로 능숙한 개발자로 성장하고자 합니다.<br />
 </div>
 <div>
-<div style='width:60%'>
+<div  width=38%>
   
 # 🚀 Skills 🚀
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-<div width='40%'>
+<div width=58%>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josoyean&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
