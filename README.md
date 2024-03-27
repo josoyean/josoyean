@@ -35,6 +35,12 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"  width=64%>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=josoyean&theme=react-dark&bg_color=000000&hide_border=true&line=ffffff&color=ffffff" width=64% align="right" />
 </a>
-  
+
+  <a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 
 
