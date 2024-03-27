@@ -29,9 +29,9 @@
 <br />
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josoyean&layout=compact&theme=radical" width=34% align="left" />
+<a href="https://github.com/anuraghazra/github-readme-stats" width=34% ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josoyean&layout=compact&theme=radical" width=34% align="left" />
 </a> 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"  width=64%>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=josoyean&theme=react-dark&bg_color=000000&hide_border=true&line=ffffff&color=ffffff" width=64% align="right" />
 </a>
   
