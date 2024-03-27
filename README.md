@@ -8,8 +8,9 @@
 최신 트랜드에 민감하게 반응하여 기술적으로 능숙한 개발자로 성장하고자 합니다.<br />
 </div>
 <div>
-<div  width=38%>
-  
+
+  <div align="center">
+    
 # 🚀 Skills 🚀
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -22,25 +23,19 @@
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-<div width=58%>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josoyean&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
 </div>
 <br />
 <br />
 
-<div align=center height=200px> 
+<div > 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josoyean&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josoyean&layout=compact&theme=radical" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josoyean&layout=compact&theme=radical" width=35% />
 </a> 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=josoyean&theme=react-dark&bg_color=000000&hide_border=true&line=ffffff&color=ffffff" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=josoyean&theme=react-dark&bg_color=000000&hide_border=true&line=ffffff&color=ffffff" width=65%/>
 </a>
 </div>
 
