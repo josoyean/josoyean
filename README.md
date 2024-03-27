@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=E3AFE1&text=%20SOYEON%20JO&reversal=false&textBg=false&fontColor=ffffff)
 
 <div align=center>
+  
 # 안녕하세요. 👋 <br />
 1년 6개월차 주니어 웹 프론트엔드 개발자입니다.<br />
 저는 항상 새로운 기술에 대한 호기심과 열정을 가지고 학습하며, <br />
