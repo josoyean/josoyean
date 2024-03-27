@@ -21,6 +21,9 @@
 <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" />
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josoyean&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 <br />
 
