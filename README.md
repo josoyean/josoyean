@@ -5,8 +5,6 @@
 1년 6개월차 주니어 웹 프론트엔드 개발자입니다.<br />
 저는 항상 새로운 기술에 대한 호기심과 열정을 가지고 학습하며, <br />
 최신 트랜드에 민감하게 반응하여 기술적으로 능숙한 개발자로 성장하고자 합니다.<br />
-또한, 사용자 인터페이스와 경험을 개선하기 위한 창의적인 솔루션을 찾는  것을 좋아하며,<br />
-그 과정으로 팀원들과 협력하고 배워 나가고 있습니다.<br />
 </div>
 <div>
 <div align=center>
@@ -22,6 +20,7 @@
 <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" />
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
 </div>
+<br />
 <br />
 
 <div align=center height=200px> 
