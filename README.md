@@ -8,7 +8,7 @@
 최신 트랜드에 민감하게 반응하여 기술적으로 능숙한 개발자로 성장하고자 합니다.<br />
 </div>
 <div>
-<div width='60%'>
+<div style='width:60%'>
   
 # 🚀 Skills 🚀
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
