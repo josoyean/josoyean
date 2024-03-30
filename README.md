@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" />
 <img src="https://img.shields.io/badge/tailwind%20css-%2338B2AC.svg?&style=for-the-badge&logo=tailwind%20css&logoColor=white" />
 <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/nodedotjs-%2338B2AC.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </div>
 
 </div>
